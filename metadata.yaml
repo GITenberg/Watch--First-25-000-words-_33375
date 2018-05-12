@@ -1,0 +1,35 @@
+_repo: Watch--First-25-000-words-_33375
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sawyer, Robert J.
+    alias: Sawyer, Robert J. (Robert James)
+    birthdate: 1960
+    gutenberg_agent_id: '36373'
+    url: http://www.gutenberg.org/2009/agents/36373
+    wikipedia: http://en.wikipedia.org/wiki/Robert_J._Sawyer
+description: Excerpt.
+gutenberg_issued: '2010-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33375'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Implants, Artificial -- Fiction'
+- !lcsh 'World Wide Web -- Fiction'
+- !lcsh 'Friendship -- Fiction'
+- !lcsh 'Teenage girls -- Fiction'
+- !lcsh 'Teenagers with visual disabilities -- Fiction'
+- !lcsh 'Administrative agencies -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Artificial intelligence -- Fiction'
+- !lcsh 'National security -- Fiction'
+title: Watch (First 25,000 words)
+url: http://www.gutenberg.org/ebooks/33375
